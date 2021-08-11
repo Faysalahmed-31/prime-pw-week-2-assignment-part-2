@@ -26,8 +26,8 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
+// We start with a variables name is set to `Dane`
+// we check if name is equal to marry --it's not so we console the next condition `how do you do `
 // 
 //
 
@@ -45,7 +45,8 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
+// We start with two variables -- code is set to 123 and secret is undefine yet
+// we check if code is 123,  it is, so we set secret and code to super and 246
 // 
 // 
 //
@@ -70,9 +71,11 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// We start with three variables -- isStudent is set to 'true' and 
+// age is set to 34, and zip is set to 55407. We check if mix is true 
+// we check  if isStudent is true and zip is greater than 80000, --It's not so we check the next condition
+// we check if isStudent is  false or age is less than 30, --It's not so we check the next condition
+// we check if isStudent is true -- it is, so we console.log 'Welcome to Prime!'
 //
 
 //CODE
@@ -115,7 +118,7 @@ let number = 1;
 
 // FIX - number-- decrements number, but the instructions ask to increment. 
 // Should be number++.
-number--; 
+number++; 
 
 if (number >= 2) {
   console.log('yes');
@@ -153,8 +156,8 @@ if (temp > 39 || time >= 4) {
 */
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
-// We check if age is greater than or equal to minAge 
-// -- it is, so we console.log 'enter'.
+// We check if minAge is less than or equal to age 
+// -- it is not we console the next  condition which is 'enter'.
 
 /*
 let age = 21;
